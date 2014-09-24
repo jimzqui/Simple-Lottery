@@ -1,0 +1,2572 @@
+2013-10-29 17:08:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:08:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:08:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:08:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:08:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:08:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:08:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:08:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:08:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:20:49 Error: Fatal Error (4): syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '$' in [D:\wamp\www\lottery\app\View\Bets\home.ctp, line 6]
+2013-10-29 17:20:49 Error: [FatalErrorException] syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '$'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 6, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\wamp\www\lot...', 6, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-29 17:20:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:20:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:20:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:20:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:20:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:20:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:20:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:20:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:20:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:21:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:44:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:46:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:46:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:46:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:46:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:46:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:46:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:46:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:48:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:48:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:48:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:48:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:48:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:48:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:48:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:48:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:49:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:49:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:49:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:49:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:49:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:49:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:49:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:49:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:49:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:51:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:51:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:51:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:51:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:51:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:51:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:51:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:54:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:54:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:54:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:54:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:54:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:54:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:54:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:54:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 17:58:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:02:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:02:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:02:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:02:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:02:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:02:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:02:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:05:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:06:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:07:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:08:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:09:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/modernizr-2.6.2.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/vendors/jquery-ui-1.10.2.custom.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/greensock/TweenMax.min.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/plugins.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-29 18:12:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /lottery/js/jquery.token-field.js
+Stack Trace:
+#0 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-30 13:40:43 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\wamp\www\lottery\app\Controller\BetsController.php, line 40]
+2013-10-30 13:40:43 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 40, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\wamp\www\lot...', 40, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-30 15:50:40 Error: Fatal Error (1): Call to undefined function _get_ip_address() in [D:\wamp\www\lottery\app\Controller\BetsController.php, line 21]
+2013-10-30 15:50:40 Error: [FatalErrorException] Call to undefined function _get_ip_address()
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\wamp\www\lot...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\wamp\www\lot...', 21, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\wamp\www\lot...', 21, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-31 01:27:08 Error: Fatal Error (4): syntax error, unexpected ''order'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [D:\wamp\www\lottery\app\Model\Bet.php, line 41]
+2013-10-31 01:27:08 Error: [FatalErrorException] syntax error, unexpected ''order'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 41)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 41, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\wamp\www\lot...', 41, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-31 01:27:40 Error: Fatal Error (1): Call to undefined function active() in [D:\wamp\www\lottery\app\Controller\BetsController.php, line 29]
+2013-10-31 01:27:40 Error: [FatalErrorException] Call to undefined function active()
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\wamp\www\lot...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\wamp\www\lot...', 29, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\wamp\www\lot...', 29, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-31 01:28:04 Error: Fatal Error (64): Cannot redeclare class Bet in [D:\wamp\www\lottery\app\Model\Winner.php, line 15]
+2013-10-31 01:28:04 Error: [FatalErrorException] Cannot redeclare class Bet
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\wamp\www\lot...', 15)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\wamp\www\lot...', 15, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\wamp\www\lot...', 15, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-31 01:28:36 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Bet.winner_id' in 'on clause'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `Bet`.`i...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT `Bet`.`i...', Array, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Bet`.`i...', false)
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): DboSource->read(Object(Bet), Array)
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('first', Array)
+#6 D:\wamp\www\lottery\app\Model\Bet.php(41): Model->find('first', Array)
+#7 D:\wamp\www\lottery\app\Controller\BetsController.php(29): Bet->active('::1')
+#8 [internal function]: BetsController->home('home')
+#9 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#10 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#12 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-10-31 01:29:29 Error: Fatal Error (64): Cannot redeclare Winner::$belongsTo in [D:\wamp\www\lottery\app\Model\Winner.php, line 14]
+2013-10-31 01:29:29 Error: [FatalErrorException] Cannot redeclare Winner::$belongsTo
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\wamp\www\lot...', 14)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\wamp\www\lot...', 14, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\wamp\www\lot...', 14, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-31 01:34:20 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Bet.winner_id' in 'on clause'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `Bet`.`i...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT `Bet`.`i...', Array, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Bet`.`i...', false)
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): DboSource->read(Object(Bet), Array)
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#6 D:\wamp\www\lottery\app\Model\Bet.php(41): Model->find('all', Array)
+#7 D:\wamp\www\lottery\app\Controller\BetsController.php(29): Bet->active('::1')
+#8 [internal function]: BetsController->home('home')
+#9 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#10 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#12 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-10-31 18:02:49 Error: Fatal Error (4): syntax error, unexpected '{' in [D:\wamp\www\lottery\app\View\Bets\home.ctp, line 27]
+2013-10-31 18:02:49 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 27, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\wamp\www\lot...', 27, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-31 18:42:36 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add' at line 1
+Request URL: /lottery/bets/raffle
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('add', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('add', Array, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(611): DboSource->fetchAll('add', Array, Array)
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(801): DboSource->query('add', Array, Object(Draw))
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(95): Model->__call('add', Array)
+#6 D:\wamp\www\lottery\app\Controller\BetsController.php(95): Draw->add(Array)
+#7 [internal function]: BetsController->raffle()
+#8 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#11 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-10-31 18:43:57 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add' at line 1
+Request URL: /lottery/bets/raffle
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('add', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('add', Array, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(611): DboSource->fetchAll('add', Array, Array)
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(801): DboSource->query('add', Array, Object(Draw))
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(95): Model->__call('add', Array)
+#6 D:\wamp\www\lottery\app\Controller\BetsController.php(95): Draw->add(Array)
+#7 [internal function]: BetsController->raffle()
+#8 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#11 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-10-31 18:44:10 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add' at line 1
+Request URL: /lottery/bets/raffle
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('add', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('add', Array, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(611): DboSource->fetchAll('add', Array, Array)
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(801): DboSource->query('add', Array, Object(Draw))
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(95): Model->__call('add', Array)
+#6 D:\wamp\www\lottery\app\Controller\BetsController.php(95): Draw->add(Array)
+#7 [internal function]: BetsController->raffle()
+#8 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#11 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-10-31 19:18:53 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'combination_sort' cannot be null
+Request URL: /lottery/bets/addbet
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `lo...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `lo...')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Bet), Array, Array)
+#4 D:\wamp\www\lottery\app\Model\Bet.php(18): Model->save(Array)
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(58): Bet->add(Array)
+#6 [internal function]: BetsController->addbet()
+#7 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#8 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#10 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-31 19:20:25 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'combination_sort' cannot be null
+Request URL: /lottery/bets/addbet
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `lo...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `lo...')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Bet), Array, Array)
+#4 D:\wamp\www\lottery\app\Model\Bet.php(18): Model->save(Array)
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(59): Bet->add(Array)
+#6 [internal function]: BetsController->addbet()
+#7 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#8 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#10 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-31 19:21:59 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'combination_sort' cannot be null
+Request URL: /lottery/bets/addbet
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `lo...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `lo...')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Bet), Array, Array)
+#4 D:\wamp\www\lottery\app\Model\Bet.php(18): Model->save(Array)
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(60): Bet->add(Array)
+#6 [internal function]: BetsController->addbet()
+#7 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#8 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#10 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-31 19:22:29 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'combination_sort' cannot be null
+Request URL: /lottery/bets/addbet
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `lo...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `lo...')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Bet), Array, Array)
+#4 D:\wamp\www\lottery\app\Model\Bet.php(18): Model->save(Array)
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(61): Bet->add(Array)
+#6 [internal function]: BetsController->addbet()
+#7 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#8 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#10 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-31 19:25:00 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'combination_sort' cannot be null
+Request URL: /lottery/bets/addbet
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `lo...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `lo...')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Bet), Array, Array)
+#4 D:\wamp\www\lottery\app\Model\Bet.php(18): Model->save(Array)
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(58): Bet->add(Array)
+#6 [internal function]: BetsController->addbet()
+#7 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#8 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#10 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-31 19:29:07 Error: Fatal Error (4): syntax error, unexpected ',' in [D:\wamp\www\lottery\app\Controller\BetsController.php, line 52]
+2013-10-31 19:29:07 Error: [FatalErrorException] syntax error, unexpected ','
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 52)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 52, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\wamp\www\lot...', 52, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-31 20:28:33 Error: Fatal Error (1): Call to a member function add() on a non-object in [D:\wamp\www\lottery\app\Controller\BetsController.php, line 83]
+2013-10-31 20:28:33 Error: [FatalErrorException] Call to a member function add() on a non-object
+Request URL: /lottery/bets/raffle
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\wamp\www\lot...', 83)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\wamp\www\lot...', 83, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\wamp\www\lot...', 83, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-31 20:28:59 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bet_id' cannot be null
+Request URL: /lottery/bets/raffle
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `lo...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `lo...')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Winner), Array, Array)
+#4 D:\wamp\www\lottery\app\Model\Winner.php(23): Model->save(Array)
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(86): Winner->add(Array)
+#6 [internal function]: BetsController->raffle()
+#7 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#8 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#10 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-31 20:29:38 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bet_id' cannot be null
+Request URL: /lottery/bets/raffle
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `lo...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `lo...')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Winner), Array, Array)
+#4 D:\wamp\www\lottery\app\Model\Winner.php(23): Model->save(Array)
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(87): Winner->add(Array)
+#6 [internal function]: BetsController->raffle()
+#7 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#8 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#10 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-31 20:30:15 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bet_id' cannot be null
+Request URL: /lottery/bets/raffle
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `lo...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `lo...')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Winner), Array, Array)
+#4 D:\wamp\www\lottery\app\Model\Winner.php(23): Model->save(Array)
+#5 D:\wamp\www\lottery\app\Controller\BetsController.php(87): Winner->add(Array)
+#6 [internal function]: BetsController->raffle()
+#7 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#8 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#10 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-10-31 20:44:25 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Bet.combination_sort' in 'where clause'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `Draw`.`...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT `Draw`.`...', Array, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Draw`.`...', false)
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): DboSource->read(Object(Draw), Array)
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('first', Array)
+#6 D:\wamp\www\lottery\app\Model\Draw.php(37): Model->find('first', Array)
+#7 D:\wamp\www\lottery\app\Controller\BetsController.php(28): Draw->latest()
+#8 [internal function]: BetsController->home('home')
+#9 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#10 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#12 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-10-31 20:45:16 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Bet.id' in 'order clause'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `Draw`.`...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT `Draw`.`...', Array, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Draw`.`...', false)
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): DboSource->read(Object(Draw), Array)
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('first', Array)
+#6 D:\wamp\www\lottery\app\Model\Draw.php(34): Model->find('first', Array)
+#7 D:\wamp\www\lottery\app\Controller\BetsController.php(28): Draw->latest()
+#8 [internal function]: BetsController->home('home')
+#9 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#10 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#12 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-10-31 20:46:59 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Bet.id' in 'order clause'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `Draw`.`...', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT `Draw`.`...', Array, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Draw`.`...', false)
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): DboSource->read(Object(Draw), Array)
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('first', Array)
+#6 D:\wamp\www\lottery\app\Model\Draw.php(35): Model->find('first', Array)
+#7 D:\wamp\www\lottery\app\Controller\BetsController.php(28): Draw->latest()
+#8 [internal function]: BetsController->home('home')
+#9 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#10 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#12 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-10-31 21:12:47 Error: Fatal Error (4): syntax error, unexpected ''Winner.draw_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [D:\wamp\www\lottery\app\Model\Winner.php, line 38]
+2013-10-31 21:12:47 Error: [FatalErrorException] syntax error, unexpected ''Winner.draw_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 38)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 38, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\wamp\www\lot...', 38, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-31 21:13:10 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'raffleDate' at line 1
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('raffleDate', Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('raffleDate', Array, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(611): DboSource->fetchAll('raffleDate', Array, Array)
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(801): DboSource->query('raffleDate', Array, Object(Winner))
+#5 D:\wamp\www\lottery\app\Model\Winner.php(33): Model->__call('raffleDate', Array)
+#6 D:\wamp\www\lottery\app\Model\Winner.php(33): Winner->raffleDate()
+#7 D:\wamp\www\lottery\app\Controller\BetsController.php(34): Winner->listing('jackpot', '1')
+#8 [internal function]: BetsController->home('home')
+#9 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#10 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#12 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-10-31 21:13:45 Error: Fatal Error (4): syntax error, unexpected ''and'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [D:\wamp\www\lottery\app\Model\Bet.php, line 50]
+2013-10-31 21:13:45 Error: [FatalErrorException] syntax error, unexpected ''and'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 50, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\wamp\www\lot...', 50, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-12 18:00:27 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'jimboqu1_22488\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 D:\wamp\www\lottery\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3454): ConnectionManager::getDataSource('default')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1124): Model->setDataSource('default')
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3476): Model->setSource('bets')
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): Model->getDataSource()
+#6 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#7 D:\wamp\www\lottery\app\Model\Bet.php(35): Model->find('all', Array)
+#8 D:\wamp\www\lottery\app\Controller\BetsController.php(56): Bet->active('::1')
+#9 [internal function]: BetsController->home('home')
+#10 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#13 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-03-12 18:02:48 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in [D:\wamp\www\lottery\app\Config\database.php, line 99]
+2014-03-12 18:02:48 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION)
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 99)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\wamp\www\lot...', 99, Array)
+#2 D:\wamp\www\lottery\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\wamp\www\lot...', 99, Array)
+#3 D:\wamp\www\lottery\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-12 18:03:09 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'jimboqu1_22488\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 D:\wamp\www\lottery\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3454): ConnectionManager::getDataSource('default')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1124): Model->setDataSource('default')
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3476): Model->setSource('bets')
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): Model->getDataSource()
+#6 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#7 D:\wamp\www\lottery\app\Model\Bet.php(35): Model->find('all', Array)
+#8 D:\wamp\www\lottery\app\Controller\BetsController.php(56): Bet->active('::1')
+#9 [internal function]: BetsController->home('home')
+#10 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#13 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-03-12 18:03:27 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'jimboqu1_22488\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 D:\wamp\www\lottery\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3454): ConnectionManager::getDataSource('default')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1124): Model->setDataSource('default')
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3476): Model->setSource('bets')
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): Model->getDataSource()
+#6 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#7 D:\wamp\www\lottery\app\Model\Bet.php(35): Model->find('all', Array)
+#8 D:\wamp\www\lottery\app\Controller\BetsController.php(56): Bet->active('::1')
+#9 [internal function]: BetsController->home('home')
+#10 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#13 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-03-12 18:05:42 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'jimboqu1_22488\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 D:\wamp\www\lottery\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3454): ConnectionManager::getDataSource('default')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1124): Model->setDataSource('default')
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3476): Model->setSource('bets')
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): Model->getDataSource()
+#6 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#7 D:\wamp\www\lottery\app\Model\Bet.php(35): Model->find('all', Array)
+#8 D:\wamp\www\lottery\app\Controller\BetsController.php(56): Bet->active('::1')
+#9 [internal function]: BetsController->home('home')
+#10 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#13 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-03-12 18:05:52 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'jimboqu1_22488\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 D:\wamp\www\lottery\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3454): ConnectionManager::getDataSource('default')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1124): Model->setDataSource('default')
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3476): Model->setSource('bets')
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): Model->getDataSource()
+#6 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#7 D:\wamp\www\lottery\app\Model\Bet.php(35): Model->find('all', Array)
+#8 D:\wamp\www\lottery\app\Controller\BetsController.php(56): Bet->active('::1')
+#9 [internal function]: BetsController->home('home')
+#10 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#13 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-03-12 18:18:47 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'jimboqu1_22488\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /lottery/
+Stack Trace:
+#0 D:\wamp\www\lottery\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 D:\wamp\www\lottery\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3454): ConnectionManager::getDataSource('default')
+#3 D:\wamp\www\lottery\lib\Cake\Model\Model.php(1124): Model->setDataSource('default')
+#4 D:\wamp\www\lottery\lib\Cake\Model\Model.php(3476): Model->setSource('bets')
+#5 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2880): Model->getDataSource()
+#6 D:\wamp\www\lottery\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#7 D:\wamp\www\lottery\app\Model\Bet.php(35): Model->find('all', Array)
+#8 D:\wamp\www\lottery\app\Controller\BetsController.php(56): Bet->active('::1')
+#9 [internal function]: BetsController->home('home')
+#10 D:\wamp\www\lottery\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BetsController), Array)
+#11 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 D:\wamp\www\lottery\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BetsController), Object(CakeRequest), Object(CakeResponse))
+#13 D:\wamp\www\lottery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}

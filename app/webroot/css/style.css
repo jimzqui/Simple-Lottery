@@ -1,0 +1,349 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  margin: 0;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', serif;
+}
+
+
+h1 {
+  margin-top: 5px;
+}
+
+
+#container {
+  width: 810px;
+  margin: 0 auto;
+}
+
+
+#bets {
+  width: 810px;
+  float: left;
+  position: relative;
+}
+
+#bets .grayblock {
+  border-radius: 0 5px 5px;
+  background: #f3f3f3;
+  display: block;
+  padding: 20px;
+  position: relative;
+}
+
+#bets h3 {
+  background: none repeat scroll 0 0 #eaeaea;
+  border-bottom: 1px solid #e1e1e1;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #333333;
+  font-weight: normal;
+  margin: 0 0 20px;
+  padding: 20px;
+}
+#bets h3.bot {
+  text-align: center;
+  margin: 15px 0 0;
+}
+
+#bets #rem {
+  float: right;
+  position: absolute;
+  right: 40px;
+  top: 40px;
+  font-size: 15px;
+  color: #333333;
+}
+#bets #rem var {
+  font-style: normal;
+}
+
+#bets .balls {
+  list-style: none;
+  display: block;
+  padding: 0 7px;
+  margin: 0;
+}
+#bets .balls li {
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  display: inline-block;
+  background: white;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border: 1px solid #eaeaea;
+  margin: 5px 10px;
+  cursor: pointer;
+  color: #333333;
+}
+#bets .balls li:hover {
+  background: #7bb8e7;
+  color: white;
+}
+#bets .balls li.selected {
+  background: #7bb8e7;
+  color: white;
+  box-shadow: 0 0 10px -5px black;
+}
+#bets .balls li.disabled {
+  cursor: default;
+}
+#bets .balls li.disabled:hover {
+  background: white;
+  color: #333333;
+}
+
+#bets .result {
+  list-style: none;
+  display: block;
+  padding: 0 158px;
+  margin: 0;
+}
+#bets .result li {
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  display: inline-block;
+  background: white;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border: 1px solid #eaeaea;
+  margin: 5px 10px;
+  color: #333333;
+}
+#bets .result .nocontent {
+  text-align: center;
+}
+
+#bets .winners {
+  display: block;
+  font-size: 15px;
+  margin: 0;
+  padding: 0 145px;
+}
+#bets .winners .jackpot {
+  display: inline-block;
+  text-align: left;
+  width: 35%;
+}
+#bets .winners .fivedigit {
+  display: inline-block;
+  text-align: right;
+  width: 64%;
+}
+
+#bets .sep {
+  text-align: center;
+  border-top: 1px solid #e1e1e1;
+  margin: 15px 0 0;
+  font-size: 15px;
+  color: #333333;
+}
+#bets .sep span {
+  background: #f3f3f3;
+  display: inline-block;
+  padding: 0 15px;
+  position: relative;
+  text-transform: uppercase;
+  top: -11px;
+}
+
+#bets .sep-box {
+  background: #eaeaea;
+  border-top: 1px solid #e1e1e1;
+  color: #333333;
+  font-size: 15px;
+  margin: 15px 0 0;
+  padding: 20px;
+  text-align: center;
+}
+#bets .sep-box span {
+  background: #f3f3f3;
+  display: inline-block;
+  padding: 0 15px;
+  position: relative;
+  text-transform: uppercase;
+  top: -11px;
+}
+
+#bets .pick {
+  display: none;
+}
+
+#bets button {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background: #d81e05;
+  border: none;
+  color: white;
+  padding: 7px 14px;
+  font-size: 12px;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+#bets button:hover {
+  background: #bf1c06;
+}
+
+#bets #picks {
+  width: 80px;
+  height: 500px;
+  position: absolute;
+  left: -85px;
+  top: 20px;
+}
+#bets #picks span {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background: #f3f3f3;
+  float: left;
+  font-size: 27px;
+  height: 68px;
+  line-height: 70px;
+  margin: 0 0 16px;
+  text-align: center;
+  width: 70px;
+  text-shadow: 1px 1px white;
+  color: #333333;
+}
+
+#bets #btn-lucky {
+  position: relative;
+  left: 338px;
+  margin: 5px 0;
+}
+
+#bets #btn-submit {
+  position: absolute;
+  right: 40px;
+  top: 36px;
+  display: none;
+}
+
+
+#tabs {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  height: 40px;
+}
+
+#tabs li {
+  background: #dddddd;
+  border-radius: 5px 5px 0 0;
+  cursor: pointer;
+  float: left;
+  font-family: arial;
+  font-size: 14px;
+  font-weight: bold;
+  height: 40px;
+  line-height: 40px;
+  margin: 0 15px 0 0;
+  padding: 0 20px;
+  text-shadow: 1px 1px white;
+  text-transform: uppercase;
+}
+#tabs li:hover {
+  background: #eaeaea;
+}
+#tabs li.active {
+  background: #f3f3f3;
+}
+
+
+.tabcontent {
+  display: none;
+}
+
+.tabcontent.active {
+  display: block;
+}
+
+
+#loader {
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#loader .loader-overlay {
+  background: #cccccc;
+  opacity: 0.5;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#loader .loader-img {
+  background: url(../img/ajax-loader.gif) no-repeat;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -8px 0 0 -8px;
+}
+
+
+.betballs {
+  list-style: none;
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+.betballs li {
+  border-radius: 3px 3px 3px 3px;
+  border: 1px solid white;
+  box-shadow: 0 0 10px -5px black inset;
+  display: inline-block;
+  margin: 10px;
+  padding: 15px 20px;
+  width: 320px;
+}
+.betballs li span {
+  border-right: 1px dashed #999999;
+  float: left;
+  font-size: 22px;
+  height: 20px;
+  line-height: 20px;
+  padding: 10px;
+  text-align: center;
+  width: 32px;
+}
+.betballs li span:last-child {
+  border-right: none;
+}
+.betballs li.win-jackpot {
+  box-shadow: 0 0 80px -5px green inset;
+}
+.betballs li.win-fivedigit {
+  box-shadow: 0 0 80px -5px green inset;
+}
+
+
+#footnote {
+  display: inline-block;
+  font-size: 13px;
+  margin: 20px 0;
+}
+
+

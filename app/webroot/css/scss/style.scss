@@ -1,0 +1,357 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+	margin-top: 5px;
+}
+
+@mixin border($b) {
+	-webkit-border-radius: $b;
+	-moz-border-radius: $b;
+	border-radius: $b;
+}
+
+#container {
+	width: 810px;
+	margin: 0 auto;
+}
+
+#bets {
+	width: 810px;
+	float: left;
+	position: relative;
+	
+	.grayblock {
+		border-radius: 0 5px 5px;
+		background: #f3f3f3;
+		display: block;
+		padding: 20px;
+		position: relative;
+	}
+	
+	h3 {
+		background: none repeat scroll 0 0 #EAEAEA;
+		border-bottom: 1px solid #E1E1E1;
+		font-family: 'Roboto';
+		font-size: 15px;
+		color: #333;
+		font-weight: normal;
+		margin: 0 0 20px;
+		padding: 20px;
+		
+		&.bot {
+			text-align: center;
+			margin: 15px 0 0;
+		}
+	}
+	
+	#rem {
+		float: right;
+		position: absolute;
+		right: 40px;
+		top: 40px;
+		font-size: 15px;
+		color: #333;
+		
+		var {
+			font-style: normal;
+		}
+	}
+	
+	.balls {
+		list-style: none;
+		display: block;
+		padding: 0 7px;
+		margin: 0;
+		
+		li {
+			@include border(100px);
+			display: inline-block;
+			background: #fff;
+			width: 50px;
+			height: 50px;
+			line-height: 50px;
+			text-align: center;
+			border: 1px solid #eaeaea;
+			margin: 5px 10px;
+			cursor: pointer;
+			color: #333;
+			
+			&:hover {
+				background: #7bb8e7;
+				color: #fff;
+			}
+			
+			&.selected {
+				background: #7bb8e7;
+				color: #fff;
+				box-shadow: 0 0 10px -5px #000;
+			}
+		}
+		
+		li.disabled {
+			cursor: default;
+		
+			&:hover {
+				background: #fff;
+				color: #333;
+			}
+		}
+	}
+	
+	.result {
+		list-style: none;
+		display: block;
+		padding: 0 158px;
+		margin: 0;
+		
+		li {
+			@include border(100px);
+			display: inline-block;
+			background: #fff;
+			width: 50px;
+			height: 50px;
+			line-height: 50px;
+			text-align: center;
+			border: 1px solid #eaeaea;
+			margin: 5px 10px;
+			color: #333;
+		}
+
+		.nocontent {
+			text-align: center;
+		}
+	}
+	
+	.winners {
+		display: block;
+		font-size: 15px;
+		margin: 0;
+		padding: 0 145px;
+		
+		.jackpot {
+			display: inline-block;
+			text-align: left;
+			width: 35%;
+		}
+		
+		.fivedigit {
+			display: inline-block;
+			text-align: right;
+			width: 64%;
+		}
+	}
+	
+	.sep {
+		text-align: center;
+		border-top: 1px solid #e1e1e1;
+		margin: 15px 0 0;
+		font-size: 15px;
+		color: #333;
+		
+		span {
+			background: #f3f3f3;
+			display: inline-block;
+			padding: 0 15px;
+			position: relative;
+			text-transform: uppercase;
+			top: -11px;
+		}
+	}
+	
+	.sep-box {
+		background: #eaeaea;
+		border-top: 1px solid #e1e1e1;
+		color: #333333;
+		font-size: 15px;
+		margin: 15px 0 0;
+		padding: 20px;
+		text-align: center;
+		
+		span {
+			background: #f3f3f3;
+			display: inline-block;
+			padding: 0 15px;
+			position: relative;
+			text-transform: uppercase;
+			top: -11px;
+		}
+	}
+	
+	.pick {
+		display: none;
+	}
+	
+	button {
+		@include border(5px);
+		background: #D81E05;
+		border: none;
+		color: #fff;
+		padding: 7px 14px;
+		font-size: 12px;
+		text-align: center;
+		text-transform: uppercase;
+		cursor: pointer;
+		
+		&:hover {
+			background: #bf1c06;
+		}
+	}
+	
+	#picks {
+		width: 80px;
+		height: 500px;
+		position: absolute;
+		left: -85px;
+		top: 20px;
+		
+		span {
+			@include border(5px);
+			background: #f3f3f3;
+			float: left;
+			font-size: 27px;
+			height: 68px;
+			line-height: 70px;
+			margin: 0 0 16px;
+			text-align: center;
+			width: 70px;
+			text-shadow: 1px 1px #fff;
+			color: #333;
+		}
+	}
+	
+	#btn-lucky {
+		position: relative;
+		left: 338px;
+		margin: 5px 0;
+	}
+	
+	#btn-submit {
+		position: absolute;
+		right: 40px;
+		top: 36px;
+		display: none;
+	}
+}
+
+#tabs {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+    height: 40px;
+	
+	li {
+		background: #ddd;
+		border-radius: 5px 5px 0 0;
+		cursor: pointer;
+		float: left;
+		font-family: arial;
+		font-size: 14px;
+		font-weight: bold;
+		height: 40px;
+		line-height: 40px;
+		margin: 0 15px 0 0;
+		padding: 0 20px;
+		text-shadow: 1px 1px #fff;
+		text-transform: uppercase;
+		
+		&:hover {
+			background: #eaeaea;
+		}
+		
+		&.active {
+			background: #f3f3f3;
+		}
+	}
+}
+
+.tabcontent {
+	display: none;
+	
+	&.active {
+		display: block;
+	}
+}
+
+#loader {
+	display: none;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	
+	.loader-overlay {
+		background: #ccc;
+		opacity: 0.5;
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+	
+	.loader-img {
+		background: url(../img/ajax-loader.gif) no-repeat;
+		width: 16px;
+		height: 16px;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		margin: -8px 0 0 -8px;
+	}
+}
+
+.betballs {
+	list-style: none;
+	display: block;
+	padding: 0;
+	margin: 0;
+	
+	li {
+		border-radius: 3px 3px 3px 3px;
+		border: 1px solid #fff;
+		box-shadow: 0 0 10px -5px #000000 inset;
+		display: inline-block;
+		margin: 10px;
+		padding: 15px 20px;
+		width: 320px;
+	
+		span {
+			border-right: 1px dashed #999999;
+			float: left;
+			font-size: 22px;
+			height: 20px;
+			line-height: 20px;
+			padding: 10px;
+			text-align: center;
+			width: 32px;
+			
+			&:last-child {
+				border-right: none;
+			}
+		}
+		
+		&.win-jackpot {
+			box-shadow: 0 0 80px -5px #008000 inset;
+		}
+		
+		&.win-fivedigit {
+			box-shadow: 0 0 80px -5px #008000 inset;
+		}
+	}
+}
+
+#footnote {
+	display: inline-block;
+    font-size: 13px;
+    margin: 20px 0;
+}
